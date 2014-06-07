@@ -1,4 +1,4 @@
--inPersoned-Chrome-Extension
+inPersoned-Chrome-Extension
 ============================
 
 Chrome extension for inPersoned.com
